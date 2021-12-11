@@ -10,8 +10,8 @@
     tools:context=".SplashActivity">
 
     <com.airbnb.lottie.LottieAnimationView
-        android:layout_width="150dp"
-        android:layout_height="150dp"
+        android:layout_width="350dp"
+        android:layout_height="350dp"
         app:lottie_rawRes="@raw/santaclaus"
         app:lottie_autoPlay="true"
         app:lottie_loop="true"/>
